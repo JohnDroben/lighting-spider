@@ -1,5 +1,5 @@
 # lighting-spider
-# Парсер источников освещения с Divan.ru (отдельный репозиторий)
+# Парсер источников освещения с Divan.ru
 
 [![Scrapy](https://img.shields.io/badge/Scrapy-2.11+-blue.svg)](https://scrapy.org/)
 
